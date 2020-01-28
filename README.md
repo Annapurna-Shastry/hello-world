@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi ,
+I am new to GIT and this is my first hello-world project.
